@@ -1,0 +1,17 @@
+These are the colors used in the websites darktheme:
+
+colorless : 0F0F0F, 161616, 1B1B1B, 1E1E1E, 393939, 616161
+
+normal	  : 181A1F, 21252B, 282C34, 2C313C, 4B5364, 777D88
+
+blue	  : 151D31, 182840, 1F2F4F, 203460, 36569A, 6880AC
+
+pink	  : AD1D31, AF2840, B62F4F, B73460, CD569A, FF80AC
+
+These are the coordinates for the transition:
+
+top:	M0,0H420C0,0,660-2,1296,0s624,0,624,0H0Z
+
+mid:	M0,0V526.188s193.183,519.61,467.844-28.94,838.439-505.14,843.7,0S1920,916.882,1920,574.86V0Z
+
+bot:	M0,0V1080H1920V0Z
