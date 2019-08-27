@@ -124,6 +124,11 @@ a{
 .btn:hover::before{
   transform: scaleY(100);
 }
+
+
+
+
+
 .top{
   height: 255px;
   width: 1920px;
@@ -134,15 +139,15 @@ a{
   padding-bottom: ;
   background-color: #21252B;
   color: #FFFFFF;
+  align-self: flex-start;
 }
 .mid{
-  height: 620px;
+  height: auto;
   width: 1920px;
   margin: 0;
-  background-color: #000000;
+  background-color: #181A1F;
   display: flex;
   flex-flow: row;
-
 }
 .bot{
   height: 90px;
@@ -151,7 +156,30 @@ a{
   background-color: #21252B;
   padding: 20px;
   color:#FFFFFF;
+  align-self: flex-end;
 }
+.mid1{
+  height: auto;
+  width: 1920px;
+  margin: 0;
+  background-color: #181A1F;
+  color: #FFFFFF;
+}
+.top1{
+  height: 150px;
+  width: 1920px;
+  margin: auto;
+  padding-left:   ;
+  padding-right:  ;
+  padding-top: 75px ;
+  padding-bottom: ;
+  background-color: #21252B;
+  color: #FFFFFF;
+  align-self: flex-start;
+}
+
+
+
 .contactleft{
   float: left;
   width: 300px;
@@ -167,6 +195,11 @@ a{
   height: auto;
   padding: 10px;
 }
+
+
+
+
+
 .picleft{
   float: left;
   width: 640px;
@@ -201,4 +234,51 @@ a{
 .picleft:hover{
   opacity: 0.4;
   background-image: url(animejs/img/piclefthover.png);
+}
+#p_s{
+  float:left;
+  opacity: 1;
+  margin-left: 40px;
+  margin-top: 20px;
+
+}
+#p_t{
+  margin-right: 40px;
+  margin-top: 20px;
+  float:right;
+  opacity: 1;
+}
+#p_u{
+  margin-left: 40px;
+  margin-top: 20px;
+  float: left;
+  opacity: 1;
+  color: #222222;
+}
+#p_v{
+  margin-right: 40px;
+  margin-top: 20px;
+  float:right;
+  opacity: 1;
+  color: #CCCCCC;
+}
+#pvpmoon{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#pvpmoon1{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  opacity: 0;
+}
+.midshort{
+  display: flex;
+  flex-flow: row;
+  margin: 30px;
+  background: #282C34;
+  height: 472px;
+  width: 1900px;
+}
+#s2{
+  background-image: url(animejs/img/bothlogos.png);
 }
