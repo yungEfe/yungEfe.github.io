@@ -139,7 +139,7 @@ a{
   height: 620px;
   width: 1920px;
   margin: 0;
-  background-color: #181A1F;
+  background-color: #000000;
   display: flex;
   flex-flow: row;
 
@@ -171,19 +171,34 @@ a{
   float: left;
   width: 640px;
   height: 620px;
-  background-image: image("animejs/img/picleft.png");
+  background-image: url(animejs/img/picleft.png);
   margin: 0;
+  opacity: 1;
 }
 .picmid{
   margin: 0;
   width: 640px;
   height: 620px;
-  background-color: #FFFFFF;
+  background-image: url(animejs/img/picmid.png);
+  opacity: 1;
 }
 .picright{
   float: right;
   width: 640px;
   height: 620px;
-  background-color: #00FF00;
+  background-image: url(animejs/img/pidright.png);
   margin: 0;
+  opacity: 1;
+}
+.picright:hover{
+  opacity: 0.4;
+  background-image: url(animejs/img/pidrighthover.png);
+}
+.picmid:hover{
+  opacity: 0.4;
+  background-image: url(animejs/img/picmidhover.png);
+}
+.picleft:hover{
+  opacity: 0.4;
+  background-image: url(animejs/img/piclefthover.png);
 }
