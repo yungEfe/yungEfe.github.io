@@ -164,6 +164,7 @@ a{
   margin: 0;
   background-color: #181A1F;
   color: #FFFFFF;
+  padding: 0;
 }
 .top1{
   height: 150px;
@@ -250,17 +251,23 @@ a{
 }
 #p_u{
   margin-left: 40px;
-  margin-top: 20px;
+  margin-top: 136px;
   float: left;
   opacity: 1;
   color: #222222;
+  height: 472px;
+  width: 950px;
 }
 #p_v{
   margin-right: 40px;
-  margin-top: 20px;
+  margin-top: 136px;
   float:right;
   opacity: 1;
   color: #CCCCCC;
+  align-self: right;
+  align-content: right;
+  height: 472px;
+  width: 950px;
 }
 #pvpmoon{
   margin-top: 20px;
@@ -274,11 +281,37 @@ a{
 .midshort{
   display: flex;
   flex-flow: row;
-  margin: 30px;
+  margin: 10px;
   background: #282C34;
   height: 472px;
   width: 1900px;
 }
 #s2{
   background-image: url(animejs/img/bothlogos.png);
+}
+#s3{
+  background-image: url(animejs/img/change_learn.png);
+}
+.ms{
+
+}
+#ms_left{
+  margin-left: 155px;
+  width: 640px;
+  height: 472px;
+}
+#ms_right{
+  margin-left: 309px;
+  width: 640px;
+  height: 472px;
+}
+#ms_left1{
+  margin-left: 155px;
+  width: 640px;
+  height: 472px;
+}
+#ms_right1{
+  margin-left: 309px;
+  width: 640px;
+  height: 472px;
 }
