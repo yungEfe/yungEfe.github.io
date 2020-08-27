@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <title>
+      efe.exe
+    </title>
+
+    <link rel = "stylesheet" href = style.css>
+    <script type="text/javascript" src = "website.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lexend+Tera&display=swap" rel="stylesheet">
+
+    <script src="lib/animejs/lib/anime.min.js"></script>
+    <script type="text/javascript" src="animation.js"></script>
+
+  </head>
+  <body>
+
+    <div class="top1" align="center">
+      <h1>≫efe.exe≫</h1><br/>
+      <h3>≪the <i>small</i> kid from the IT course≪<h3>
+      <img src="luffy.gif" align="left" id="luffyp">
+
+    </div>
+
+    <div class="mid1">
+
+
+      <div class="midshort" id="s1">
+
+        <p class="paragraph">
+
+          <b>⌈basic info⌋</b> <br/><br/>
+          first name: efe <s>enes</s>
+          <br/><br/>
+          siblings: 1 brother (cxn)
+          <br/><br/>
+          fav animals: dog, panda and cat<img src="cat.png" id="cat">
+          <br/><br/>
+          fav school subject: maths and IT
+          <br/><br/><br/>
+          what I am:<br/><br/>
+          a small nerd
+          <br/>
+          trying to program even though
+          <br/>
+          only playing videogames
+          <br/>
+          and watching anime
+          <br/>
+          but still achieving really good grades
+
+
+        </p>
+        <p class="paragraph">
+
+          <br/><br/>
+          last name: <s>n__ci</s>
+          <br/><br/>
+          age: 15
+          <br/><br/>
+          fav food: marzipan cake and kebab
+          <br/><br/>
+          hobbies: none ;(
+          <br/>
+          <img src="sans.gif" id="sans">
+
+        </p>
+        <br/>
+
+      </div>
+
+      <img src="totodile.gif" align="left" id="totodile">
+      <p id="totodiletext">
+        pokemon #158: totodile<br/><br/>
+        best pokemon ever change my mind
+      </p>
+
+      <div class="midshort" id="s2">
+
+                <p class="paragraph">
+
+                  <b>⌈some top threes⌋</b> <br/><br/>
+                  pokemon:
+                  <br/><br/>
+                  3. bulbasaur
+                  <br/>
+                  2. dragapult
+                  <br/>
+                  1. totodile
+                  <br/>
+                  <img src="dio.gif" id="dio">
+
+
+
+                </p>
+                <p class="paragraph">
+
+                  <br/><br/>
+                  anime:
+                  <br/><br/>
+                  3. naruto (shippuden)
+                  <br/>
+                  2. death note
+                  <br/>
+                  1. attack on titan
+                  <br/><br/>
+                  videogames:
+                  <br/><br/>
+                  3. brawlhalla (2020)
+                  <br/>
+                  2. minecraft (pvp: 2016 pve: latest)
+                  <br/>
+                  1. destiny 2 (forsaken)
+                  <br/><br/>
+                  fictional characters:
+                  <br/><br/>
+                  3. kakashi hatake (naruto series)
+                  <br/>
+                  2. dio brando (jojo's bizarre adventure)
+                  <br/>
+                  1. zenitsu agatsuma (demon slayer)
+
+                </p>
+                <br/>
+
+      </div>
+
+      <p id="bakugotext">
+        my hero academia: bakugo katsuki<br/><br/>
+        "Shinu"
+      </p>
+      <img src="bakugosmash.gif" align="right" id="bagukosmash">
+
+      <div class="midshort" id="s3">
+
+
+                <p class="paragraph">
+
+                  <b>⌈further info⌋</b> <br/><br/>
+                  fav color: blue
+                  <br/><br/>
+                  fav drinks: coke, coffee, cocoa milk
+                  <br/><br/>
+                  fav song: il vento d'oro
+                  <br/><br/>
+                  fav thing to do: playing destiny 2
+                  <br/>
+                  while watching 10/10 anime with a nice drink
+                  <br/>
+                  <img src="leftkame.gif" id="lkame">
+
+
+
+                </p>
+                <p class="paragraph">
+
+                  <b>⌈some more top threes⌋</b><br/><br/>
+                  real moments:
+                  <br/><br/>
+                  3. gaming + anime
+                  <br/>
+                  2. getting an A
+                  <br/>
+                  1. sleeping, knowing the next day'll be chilled
+                  <br/><br/>
+                  fictional moments:
+                  <br/><br/>
+                  3. guy 8th gate (naruto)
+                  <br/>
+                  2. eri's smile (my hero academia)
+                  <br/>
+                  1. naruto after the pain fight (naruto)
+                  <br/>
+                  <img src="rightkame.gif" id="rkame">
+
+
+                </p>
+                <br/>
+
+      </div>
+
+
+    </div>
+  </body>
+</html>

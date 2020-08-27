@@ -1,24 +1,13 @@
 html{
   font-family: 'Lexend Tera', sans-serif;
 }
-html, body {
-    overflow: visible;
-
-}
 h2, h1{
   color:#FFFFFF;
   margin: 0;
   padding: 0;
 }
-h4{
-
-}
 b{
 	font-family: "Charcoal", sans-serif;
-}
-i{
-  font-family: "Courier New", monospace;
-  color:#afbbc2;
 }
 body {
   background-color:#181A1F;
@@ -65,15 +54,7 @@ html, body {
   height: 480px;
   margin: 1%;
 }
-.gold{
-  color: #C9B037;
-}
-.silver{
-  color: #d7d7d7;
-}
-.bronze{
-  color: #AD8A56;
-}
+
 #s1{
 
 }
@@ -126,6 +107,7 @@ html, body {
   height: 18px;
 }
 #dio{
+
 }
 #rkame{
   width: 30%;
@@ -137,63 +119,6 @@ html, body {
 }
 #s3{
 }
-#diotext{
-  z-index: 1;
-  position: absolute;
-  top: 1388px;
-  right: 60%;
-  font-size: 13px;
-  color: #181A1F;
-  transition-duration: 0.3s;
-}
-#diotext:hover{
-  color: #ffffff;
-}
-#sanstext{
-  z-index: 1;
-  position: absolute;
-  top: 600px;
-  right: 4%;
-  font-size: 13px;
-  color: #181A1F;
-  transition-duration: 0.3s;
-}
-#sanstext:hover{
-  color: #ffffff;
-}
-#narutotext{
-  z-index: 1;
-  position: absolute;
-  top: 2050px;
-  right: 50%;
-  font-size: 13px;
-  color: #181A1F;
-  transition-duration: 0.3s;
-}
-#narutotext:hover{
-  color: #ffffff;
-}
-#gokutext{
-  z-index: 1;
-  position: absolute;
-  top: 2050px;
-  right: 4%;
-  font-size: 13px;
-  color: #181A1F;
-  transition-duration: 0.3s;
-}
-#gokutext:hover{
-  color: #ffffff;
-}
-button{
-  font-family: "Charcoal", sans-serif;
-  background-color: #181A1F;
-  color: #afafaf;
-  transition-duration: 0.3s;
-  border: 1px solid #121212;
-}
-button:hover{
-  background-color: #afafaf;
-  color: #181a1f;
-  border: 1px solid #121212;
-}
+img#dio:hover{
+
+ }
