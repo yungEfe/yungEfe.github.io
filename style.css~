@@ -1,0 +1,124 @@
+html{
+  font-family: 'Lexend Tera', sans-serif;
+}
+h2, h1{
+  color:#FFFFFF;
+  margin: 0;
+  padding: 0;
+}
+b{
+	font-family: "Charcoal", sans-serif;
+}
+body {
+  background-color:#181A1F;
+  margin: 0;
+  font-size: 18px;
+  background-color: #181A1F;
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.mid1{
+  height: auto;
+  width: 100%;
+  margin: 0;
+  background-color: #181A1F;
+  color: #FFFFFF;
+  padding: 0;
+}
+.top1{
+  height: 15%;
+  width: 100%;
+  margin: auto;
+  padding-left:   ;
+  padding-right:  ;
+  padding-top: 3.5% ;
+  padding-bottom: 3.5%;
+  background-color: #21252B;
+  color: #FFFFFF;
+  align-self: flex-start;
+
+}
+.midshort{
+  display: flex;
+  flex-flow: row;
+  margin: 1%;
+  background: #282C34;
+  height: 480px;
+  width: 98%;
+}
+.paragraph{
+  float: left;
+  width: 47%;
+  height: 480px;
+  margin: 1%;
+}
+
+#s1{
+
+}
+#totodile{
+  position: left;
+  height: 20%;
+  width: 20%;
+  float: left;
+}
+#totodiletext{
+  align: right;
+  width: auto;
+  height: auto;
+  float: right;
+  position: right;
+  font-size: 12px;
+  margin-right: 1%;
+  font-family: "OCR A Std", monospace;
+}
+#s2{
+
+}
+#luffyp{
+  position: absolute;
+  left: -10%;
+  top: 10%;
+}
+#bakugosmash{
+  position: right;
+  height: 20%;
+  width: auto;
+  float: right;
+}
+#bakugotext{
+  align: left;
+  width: auto;
+  height: auto;
+  float: left;
+  position: left;
+  font-size: 12px;
+  margin-left: 1%;
+  font-family: "OCR A Std", monospace;
+}
+#sans{
+  width: 260px;
+  height: 260px;
+}
+#cat{
+  width: 18px;
+  height: 18px;
+}
+#dio{
+
+}
+#rkame{
+  width: 30%;
+  height: 25%;
+}
+#lkame{
+  width: 42%;
+  height: 41%;
+}
+#s3{
+}
+img#dio:hover{
+
+ }

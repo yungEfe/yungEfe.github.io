@@ -1,0 +1,114 @@
+body{
+  background-color: #000000;
+  font-size: 20px;
+  color: #ffffff;
+  font-family: "Courier New", monospace;
+
+}
+#moments{
+  position: center;
+  align: center;
+}
+#shadow{
+  position: absolute;
+  z-index: -1;
+  left: 1010px;
+  top: 10px;
+  color: #aaaaaa;
+}
+.l, .r{
+  float: left;
+}
+.l{
+  width: 1000px;
+
+}
+.r{
+
+}
+.b{
+  color: #C9B037;
+}
+.s{
+  color: #d7d7d7;
+}
+.g{
+  color: #AD8A56;
+}
+/*button{
+  font-family: "Charcoal", sans-serif;
+  background-color: #ffffff;
+  color: #181a1f;
+  font-size: 30px;
+  transition-duration: 0.3s;
+  border: 10px solid #afafaf;
+  align: center;
+  float: left;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  height: 150px;
+  width: 400px;
+}
+button:hover{
+  background-color: #060808;
+  color: #ffffff;
+  border: 10px solid #181a1f;
+} */
+.custom-btn {
+  font-family: "Charcoal", sans-serif;
+  width: 130px;
+  height: 40px;
+  padding: 10px 25px;
+  border: 2px solid #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  color: #ffffff;
+}
+.btn-4 {
+  position: relative;
+  color: #ffffff;
+  z-index: 2;
+  line-height: 40px;
+  padding: 0;
+}
+.btn-4:hover{
+  border: none;
+}
+.btn-4:before,
+.btn-4:after {
+  position: absolute;
+  content: "";
+  width: 0%;
+  height: 0%;
+  border: 2px solid;
+  z-index: -1;
+  transition: all 0.3s ease;
+}
+.btn-4:before {
+  top: 0;
+   left: 0;
+   border-bottom-color: transparent;
+   border-right-color: transparent;
+   border-top-color: #ffffff;
+   border-left-color: #ffffff;
+}
+.btn-4:after{
+   bottom: 0;
+   right: 0;
+   border-top-color: transparent;
+   border-left-color: transparent;
+   border-bottom-color: #ffffff;
+   border-right-color: #ffffff;
+}
+.btn-4:hover:before,
+.btn-4:hover:after {
+  border-color: #ffffff;
+  height: 100%;
+  width: 100%;
+}
