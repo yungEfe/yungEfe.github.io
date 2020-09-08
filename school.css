@@ -1,0 +1,154 @@
+* {
+  font-family: sans-serif; /* Change your font family */
+  text-align: center;
+}
+
+.content-table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  min-width: 66%;
+  min-height: 50%;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.content-table thead tr {
+  background-color: #5237db;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+  padding: 12px 15px;
+}
+
+.content-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+  background-color: #ffffff;
+  transition: background-color 0.2s, font-size 0.4s;
+  font-size: 0.9em;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.content-table tbody tr:last-of-type {
+  border-bottom: 2px solid #5237db;
+}
+
+.content-table tbody tr.active-row {
+  font-weight: bold;
+  /*color: #5237db;*/
+}
+.content-table tbody tr:hover {
+  background-color: #cccccf;
+  font-size: 0.9em;
+  /*color: #5237db;*/
+
+}
+
+#phy{
+ color: #ffa500;
+
+   transition: font-size 0.1s;
+   font-size: 0.9em;
+}
+#geo{
+  color: #00ffff;
+  transition: font-size 0.1s;
+      font-size: 0.9em;
+}
+#art{
+  color: #ff00ff;
+  transition: font-size 0.1s;
+      font-size: 0.9em;
+}
+#che{
+  color: #008000;
+  font-size: 0.9em;
+    transition: font-size 0.1s;
+
+}
+#lat{
+  color: #000000;  transition: font-size 0.1s;
+    font-size: 0.9em;
+      transition: font-size 0.1s;
+}
+#philo{
+  color: #ff7000;
+  font-size: 0.9em;
+    transition: font-size 0.1s;
+}
+#ger{
+  color: #ff0000;
+  font-size: 0.9em;
+    transition: font-size 0.1s;
+
+}
+#bio{
+  color: #00ff00;
+  font-size: 0.9em;
+    transition: font-size 0.1s;
+
+}
+#pgw{
+  color: #808080;
+  font-size: 0.9em;
+    transition: font-size 0.1s;
+
+}
+#his{
+  color: #b47d49;
+  font-size: 0.9em;
+    transition: font-size 0.1s;
+
+}
+#eng{
+  color: #ffff00;
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;  transition: font-size 0.1s;
+    font-size: 0.9em;
+}
+#mat{
+  color: #000080;  transition: font-size 0.1s;
+    font-size: 0.9em;
+}
+#pe{
+  color: #008080;  transition: font-size 0.1s;
+    font-size: 0.9em;
+
+}
+#it{
+  color: #FFD700;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  transition: font-size 0.1s;
+      font-size: 0.9em;
+}
+#it:hover,
+#eng:hover,
+#pe:hover,
+#mat:hover,
+#his:hover,
+#pgw:hover,
+#lat:hover,
+#bio:hover,
+#ger:hover,
+#philo:hover,
+#che:hover,
+#art:hover,
+#geo:hover,
+#phy:hover{
+  font-size: 1.1em;
+}

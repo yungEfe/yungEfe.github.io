@@ -94,8 +94,8 @@ html, body {
   margin-right: 1%;
   font-family: "OCR A Std", monospace;
 }
-#s2{
-
+#s4{
+  align-content: center;
 }
 #luffyp{
   position: absolute;
@@ -132,6 +132,13 @@ html, body {
   height: 18px;
 }
 #dio{
+  width: 383px;
+  height: 222px;
+  transition-duration: 2s;
+}
+#dio:hover{
+  width: 403px;
+  transition-duration: 2s;
 }
 #rkame{
   width: 30%;
@@ -202,4 +209,19 @@ button:hover{
   background-color: #afafaf;
   color: #181a1f;
   border: 1px solid #121212;
+}
+#genji{
+  height: 207px;
+  width: auto;
+}
+#evo{
+  position: relative;
+  float: right;
+}
+#width50{
+  width: 99%;
+  padding: 1%;
+}
+#char{
+  height: 470px;
 }
