@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<head>
+
+	<title>Friendly Frog</title>
+
+	<link rel="stylesheet" href="input.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap" rel="stylesheet">
+
+	<meta charset="utf-80">
+	<meta name="description" content="Friendly Frog is a child-friendly entry to social media.">
+	<meta name="viewport" conteent="width=device-width, initial-scale=1">
+
+</head>
+	<body>
+
+		<div class="wrapper">
+
+	    <div class="sidebar">
+
+	        <h2>Navigation</h2>
+
+	        <ul>
+
+	            <li><a href="#">
+	            
+	            <div class="left">
+	            Home
+	            </div></a>
+	            <div class="right">
+	            <img src="https://img.over-blog-kiwi.com/0/58/75/49/20141016/ob_64c724_garcon-qui-cours.gif" alt="" class="navimg">
+	            </div>
+	               
+	            </li>
+	            
+	            <li><a href="#">
+
+	           	<div class="left">
+	            First Step
+	            </div></a>
+	            <div class="right">
+	            <img src="https://i.pinimg.com/originals/2f/c2/f0/2fc2f02b8291902f00bd7a701e111fd6.gif" alt="" class="navimg">
+	            </div>
+	            
+	            </li>
+	            
+	            <li><a href="#">
+	            	            
+	          	<div class="left">
+	            Interests
+	            </div></a>
+	            <div class="right">
+	            
+	            <img src="https://m.gifmania.com.de/Animierte-Gifs-Sport/Bilder-Fubball/Gif-Animationen-Fusballspieler/Fusballspieler-88139.gif" alt="" class="navimg">
+	            
+	            </div>
+	            
+
+	            
+	            </li>
+	            
+	            <li><a href="#">
+	            
+	           	<div class="left">
+	            Your Friends
+	            </div></a>
+	            <div class="right">
+	            <img src="https://thumbs.gfycat.com/TestyNastyGrison-size_restricted.gif" alt="" class="navimg">
+	            </div>
+	         
+	            </li>
+	            
+	            <li><a href="#">
+	            
+	           	<div class="left">
+	            Finish
+	            </div></a>
+	            <div class="right">
+	            <img src="https://i.stack.imgur.com/Vkq2a.png" alt="" class="navimg">
+	            </div>
+	            
+	            </a></li>
+	            
+	        </ul>
+
+	        <div class="social_media">
+	          <a href="https://www.instagram.com/FriendlyFrog101001020201001"><img src="https://www.flaticon.com/svg/static/icons/svg/25/25425.svg" alt="ig" class="social_media_ctn"></a>
+	          <a href="https://twitter.com/?lang=de/FriendlyFrog"><img src="https://image.flaticon.com/icons/png/512/60/60580.png" alt="twitter" class="social_media_ctn"></a>
+	          <a href="https://www.reddit.com/r/FriendlyFrog/"><img src="https://image.flaticon.com/icons/png/512/49/49398.png" alt="reddit" class="social_media_ctn"></a>
+	      </div>
+
+	    </div>
+
+	    <div class="main_content">
+
+	        <div class="header">
+
+						Friendly Frog - build your playground now
+
+
+							<img src="logo.png" alt="logo" id="frog">
+
+
+					</div>
+
+	        <div class="info">
+
+	          <div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. A sed nobis ut exercitationem atque accusamus sit natus officiis totam blanditiis at eum nemo, nulla et quae eius culpa eveniet voluptatibus repellat illum tenetur, facilis porro. Quae fuga odio perferendis itaque alias sint, beatae non maiores magnam ad, veniam tenetur atque ea exercitationem earum eveniet totam ipsam magni tempora aliquid ullam possimus? Tempora nobis facere porro, praesentium magnam provident accusamus temporibus! Repellendus harum veritatis itaque molestias repudiandae ea corporis maiores non obcaecati libero, unde ipsum consequuntur aut consectetur culpa magni omnis vero odio suscipit vitae dolor quod dignissimos perferendis eos? Consequuntur!</div>
+
+	          <div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. A sed nobis ut exercitationem atque accusamus sit natus officiis totam blanditiis at eum nemo, nulla et quae eius culpa eveniet voluptatibus repellat illum tenetur, facilis porro. Quae fuga odio perferendis itaque alias sint, beatae non maiores magnam ad, veniam tenetur atque ea exercitationem earum eveniet totam ipsam magni tempora aliquid ullam possimus? Tempora nobis facere porro, praesentium magnam provident accusamus temporibus! Repellendus harum veritatis itaque molestias repudiandae ea corporis maiores non obcaecati libero, unde ipsum consequuntur aut consectetur culpa magni omnis vero odio suscipit vitae dolor quod dignissimos perferendis eos? Consequuntur!</div>
+
+	          <div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. A sed nobis ut exercitationem atque accusamus sit natus officiis totam blanditiis at eum nemo, nulla et quae eius culpa eveniet voluptatibus repellat illum tenetur, facilis porro. Quae fuga odio perferendis itaque alias sint, beatae non maiores magnam ad, veniam tenetur atque ea exercitationem earum eveniet totam ipsam magni tempora aliquid ullam possimus? Tempora nobis facere porro, praesentium magnam provident
+					 	accusamus temporibus! Repellendus harum veritatis itaque molestias repudiandae ea corporis maiores non obcaecati libero, unde ipsum consequuntur aut consectetur culpa magni omnis vero odio suscipit vitae dolor quod dignissimos perferendis eos? Consequuntur!</div>
+				
+				<div> Lorem ipsum dolor sit, amet consectetur adipisicing elit. A sed nobis ut exercitationem atque accusamus sit natus officiis totam blanditiis at eum nemo, nulla et quae eius culpa eveniet voluptatibus repellat illum tenetur, facilis porro. Quae fuga odio perferendis itaque alias sint, beatae non maiores magnam ad, veniam tenetur atque ea exercitationem earum eveniet totam ipsam magni tempora aliquid ullam possimus? Tempora nobis facere porro, praesentium magnam provident
+					 	accusamus temporibus! Repellendus harum veritatis itaque molestias repudiandae ea corporis maiores non obcaecati libero, unde ipsum consequuntur aut consectetur culpa magni omnis vero odio suscipit vitae dolor quod dignissimos perferendis eos? Consequuntur!</div>
+				
+				<div> Lorem ipsum dolor sit, amet consectetur adipisicing elit. A sed nobis ut exercitationem atque accusamus sit natus officiis totam blanditiis at eum nemo, nulla et quae eius culpa eveniet voluptatibus repellat illum tenetur, facilis porro. Quae fuga odio perferendis itaque alias sint, beatae non maiores magnam ad, veniam tenetur atque ea exercitationem earum eveniet totam ipsam magni tempora aliquid ullam possimus? Tempora nobis facere porro, praesentium magnam provident
+					 	accusamus temporibus! Repellendus harum veritatis itaque molestias repudiandae ea corporis maiores non obcaecati libero, unde ipsum consequuntur aut consectetur culpa magni omnis vero odio suscipit vitae dolor quod dignissimos perferendis eos? Consequuntur!</div>
+				
+				<div> Lorem ipsum dolor sit, amet consectetur adipisicing elit. A sed nobis ut exercitationem atque accusamus sit natus officiis totam blanditiis at eum nemo, nulla et quae eius culpa eveniet voluptatibus repellat illum tenetur, facilis porro. Quae fuga odio perferendis itaque alias sint, beatae non maiores magnam ad, veniam tenetur atque ea exercitationem earum eveniet totam ipsam magni tempora aliquid ullam possimus? Tempora nobis facere porro, praesentium magnam provident
+					 	accusamus temporibus! Repellendus harum veritatis itaque molestias repudiandae ea corporis maiores non obcaecati libero, unde ipsum consequuntur aut consectetur culpa magni omnis vero odio suscipit vitae dolor quod dignissimos perferendis eos? Consequuntur!</div>
+
+			  </div>
+
+		  </div>
+
+	</div>
+
+	</body>
+	</html>
